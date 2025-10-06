@@ -119,6 +119,3 @@ The forecasts are **illustrative only** and do not account for complex economic 
 
 ---
 
-## 📄 License
-
-MIT License © 2025 Your Name
